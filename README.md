@@ -17,3 +17,7 @@ Sentence-length palindromes may be written when allowances are made for adjustme
 "A man, a plan, a canal, Panama!"
 
 Use the file Palindrome.swift to write a program that checks whether or not an array contains a palindrome. You can use Xcode to test and run your code into a Playground.
+
+Fork this repository, make your implementation and create a new PR. When you are done, copy and paste the code into the Palindrome.swift file
+
+Happy coding!
